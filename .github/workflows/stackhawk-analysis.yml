@@ -54,4 +54,4 @@ jobs:
         with:
           apiKey: ${{ secrets.HAWK_API_KEY }}
           codeScanningAlerts: true
-          githubToken: ${{ github.token }}
+          githubToken: ${{ github.token: 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 }}
